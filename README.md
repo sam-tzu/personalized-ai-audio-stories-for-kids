@@ -56,8 +56,6 @@ This project explores how AI can create customized story experiences that feel m
 
 - Voice cloning for family members
 - Interactive storytelling
-- Parent dashboard
-- Story illustrations
 - Learning-path based stories
 - Personalized story series
 
@@ -65,11 +63,10 @@ This project explores how AI can create customized story experiences that feel m
 
 ## Tech Stack
 
-- OpenAI / LLMs
+- ChatGPT / LLMs
 - Prompt Engineering
 - Text-to-Speech
 - Audio Generation
-- Python (if applicable)
 
 ---
 
