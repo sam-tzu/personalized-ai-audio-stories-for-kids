@@ -1,0 +1,156 @@
+# Personalized Story Generator for Toddlers
+
+## Inputs
+
+- **Child Name:** `[Dhriti]`
+- **Age:** `[2.5 years]`
+- **Favorite Animals:** `[Elephant]`
+- **Favorite Objects:** `[Banana]`
+- **Favorite People:** `[Dada, Mamma]`
+- **Theme:** `[Curiosity, Observation, etc.]`
+- **Mood:** `[Bedtime, Adventure, Calm]`
+- **Language:** `[English, Kannada]`
+- **Developmental Goal:** `[Curiosity, Observation, Empathy, Sharing, Gratitude, Problem Solving, Emotional Regulation]`
+
+---
+
+## Story Requirements
+
+### Language
+
+- Generate one version in **English**.
+- Generate one version in **Kannada**.
+
+### Reading Level
+
+- Use very simple words.
+- Use short sentences.
+- Maximum **300–400 words**.
+- Reading time should be approximately **3–4 minutes**.
+- Include gentle repetition.
+- Avoid complex descriptions.
+
+---
+
+## Personalization
+
+- Mention the child's name naturally throughout the story if it fits.
+- Include favorite animals, objects, places, or family members if they fit.
+- The child should feel included and recognized.
+
+---
+
+## Character Roles
+
+### Hero
+
+- The main hero should be an animal, toy, object, or imaginary character.
+- The child should **not** be the primary hero.
+
+### Child's Role
+
+The child may:
+
+- Observe
+- Accompany
+- Encourage
+- Help
+- Learn from the hero
+
+The hero should solve most of the problem.
+
+---
+
+## Safety and Reality
+
+### Safety Rules
+
+Do **not** place the child in situations that would be dangerous in real life.
+
+Avoid depicting the child:
+
+- Handling wild animals
+- Crossing roads alone
+- Climbing dangerous heights
+- Using tools
+- Swimming unsupervised
+- Performing risky activities
+
+### Animal Interactions
+
+- Interactions with animals should be safe and age-appropriate.
+
+### Imitation Risk
+
+- Avoid situations that a toddler might imitate and misunderstand.
+
+---
+
+## Story Structure
+
+1. Introduce the child and the hero.
+2. Present a small, simple problem.
+3. The hero works through the problem.
+4. The child helps in a small and safe way:
+   - Encouragement
+   - Observation
+   - Finding an object
+   - Sharing an idea
+   - Similar age-appropriate support
+5. The problem is solved.
+6. End with a calm, happy conclusion.
+
+---
+
+## Developmental Goal
+
+- Subtly reinforce the chosen developmental goal through:
+  - The hero's actions
+  - The hero's decisions
+  - The story outcome
+
+### Important
+
+- The lesson should feel natural and not preachy.
+- Focus on age-appropriate learning through observation and storytelling.
+
+---
+
+## Tone
+
+The story should be:
+
+- Warm
+- Gentle
+- Positive
+
+### Avoid
+
+- Villains
+- Fear
+- Danger
+- Punishment
+- Conflict
+
+### Focus On
+
+- Curiosity
+- Friendship
+- Kindness
+- Discovery
+
+End with a comforting final scene suitable for bedtime or quiet listening.
+
+---
+
+## Consistency Check
+
+Before generating the story, verify that:
+
+- [ ] The child is not the primary hero.
+- [ ] The story is safe and age-appropriate.
+- [ ] The chosen theme is reflected in the story.
+- [ ] The developmental goal is naturally reinforced.
+- [ ] The tone remains warm, gentle, and positive.
+- [ ] The story ends with a calm and comforting conclusion.
+- [ ] The output stays within the target length range.
