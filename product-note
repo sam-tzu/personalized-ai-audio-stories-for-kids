@@ -1,0 +1,203 @@
+# Product Notes
+
+## Table of Contents
+
+* [Problem](#problem)
+* [Target User](#target-user)
+* [Hypothesis](#hypothesis)
+* [Key Design Decisions](#key-design-decisions)
+
+  * [1. Child is not the Primary Hero](#1-child-is-not-the-primary-hero)
+  * [2. Safety-first Storytelling](#2-safety-first-storytelling)
+  * [3. Developmental Goals](#3-developmental-goals)
+  * [4. Voice-first and Screen-free by Design](#4-voice-first-and-screen-free-by-design)
+  * [5. Structured Personalization](#5-structured-personalization)
+* [Validation Plan](#validation-plan)
+* [Success Metrics](#success-metrics)
+* [Current MVP Limitations](#current-mvp-limitations)
+* [Future Roadmap](#future-roadmap)
+
+---
+
+## Problem
+
+Most children's stories are generic and do not reflect a child's interests, family members, language preferences, or developmental needs.
+
+Parents often personalize stories manually, but doing so consistently requires time and creativity.
+
+AI creates an opportunity to generate stories that feel uniquely tailored to each child while reducing dependence on screen-based entertainment.
+
+---
+
+## Target User
+
+### Primary User
+
+* Parents of children aged 2–6 years
+
+### Secondary User
+
+* Children listening to the stories
+
+### Key Use Cases
+
+* Bedtime storytelling
+* Travel and commute entertainment
+* Quiet-time activities
+* Language exposure
+* Reinforcing developmental skills
+
+---
+
+## Hypothesis
+
+Children may engage more deeply with stories when they:
+
+* Hear their own name
+* Hear familiar people mentioned
+* Encounter favorite animals and objects
+* Receive content in their preferred language
+* See their interests reflected in the story world
+
+Parents may perceive greater value in stories that are both entertaining and developmentally beneficial.
+
+---
+
+## Key Design Decisions
+
+### 1. Child is not the Primary Hero
+
+Many personalized story experiences position the child as the hero.
+
+This MVP intentionally avoids that approach.
+
+Young children often imitate behaviors they observe. To reduce the risk of unsafe imitation, the hero is an animal, toy, object, or imaginary character.
+
+The child participates as an observer, helper, learner, or encourager.
+
+---
+
+### 2. Safety-first Storytelling
+
+Stories explicitly avoid situations involving:
+
+* Roads
+* Water
+* Heights
+* Tools
+* Wild animals
+* Other activities that toddlers may imitate unsafely
+
+The goal is to encourage curiosity and exploration without encouraging risky behavior.
+
+---
+
+### 3. Developmental Goals
+
+Stories are designed to reinforce age-appropriate skills such as:
+
+* Curiosity
+* Observation
+* Empathy
+* Sharing
+* Gratitude
+* Emotional awareness
+* Problem solving
+
+Lessons should emerge naturally through the narrative rather than feeling instructional.
+
+---
+
+### 4. Voice-first and Screen-free by Design
+
+The long-term vision is to make stories accessible through voice assistants such as Alexa and Google Home.
+
+Young children often cannot read, type, or navigate interfaces independently. Voice interactions allow them to request stories on their own, creating a sense of independence and accomplishment.
+
+The product is intentionally designed to be screen-free.
+
+Rather than competing with video content, the goal is to provide an engaging alternative that encourages imagination, listening skills, and sustained attention.
+
+---
+
+### 5. Structured Personalization
+
+Personalization extends beyond inserting the child's name.
+
+Stories can incorporate:
+
+* Familiar people
+* Favorite animals
+* Favorite objects
+* Preferred language
+* Themes
+* Developmental goals
+
+The objective is to create recognition and relevance without becoming repetitive.
+
+---
+
+## Validation Plan
+
+To validate the concept, I would test:
+
+1. Generic stories vs personalized stories
+2. Text-only stories vs audio stories
+3. Stories with and without developmental goals
+4. Single-use engagement vs repeat usage
+5. Parent-requested stories vs child-requested stories through voice interfaces
+
+The primary objective is to determine whether personalization meaningfully improves engagement and parent satisfaction.
+
+---
+
+## Success Metrics
+
+Potential metrics include:
+
+* Story completion rate
+* Repeat story requests
+* Parent satisfaction
+* Child engagement during playback
+* Stories consumed per week
+* Retention over time
+
+---
+
+## Current MVP Limitations
+
+* No user interface
+* Manual story generation
+* Limited testing with children
+* No memory across story sessions
+* Limited personalization history
+* No measurement of learning outcomes
+
+---
+
+## Future Roadmap
+
+### Personalization
+
+* Story series with recurring characters
+* Child preference memory
+* Dynamic story length
+* Personalized story collections
+
+### Learning
+
+* Developmental goal progression
+* Learning-path based stories
+
+### Engagement
+
+* Character continuity across stories
+
+### Platform
+
+* Alexa integration
+* Google Home integration
+* Voice-based story requests
+* Child-safe voice profiles
+* Family story libraries
+* Specialized hardware
